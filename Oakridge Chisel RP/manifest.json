@@ -1,1 +1,18 @@
-
+{
+    "format_version": 2,
+    "header": {
+        "description": "Chisel 2.0 for 1.19.50, By MC77Rivers, Edited by MyrandaMiller91 and AvgZing",
+        "name": "Oakridge Chisel RP v2",
+        "uuid": "dc128271-82a2-4b1f-811d-439cceb2dab5",
+        "version": [2, 0, 0],
+        "min_engine_version": [ 1, 19, 50 ]
+    },
+    "modules": [
+        {
+            "description": "Chisel 2.0, By MC77Rivers, Edited by MyrandaMiller91 and AvgZing",
+            "type": "resources",
+            "uuid": "1f17dd00-cafc-4920-ba4f-131373b91d62",
+            "version": [2, 0, 0]
+        }
+    ]
+}
